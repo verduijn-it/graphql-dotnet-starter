@@ -1,3 +1,4 @@
+![graphql-dotnet-starter-logo](https://github.com/verduijn-it/graphql-dotnet-starter/blob/master/graphql-dotnet-logo.png)
 # graphql-dotnet-starter
 
 Setting up a graphql endpoint using graphql-dotnet can be daunting task. Especially when you lack previous experience with .NET Core backends. Because of that, we created graphql-dotnet-starter. This starter kit helps you get up and running in no time, and provides a development environment with all the goodies you expect when building a graphql endpoint. Reasons to use this starter kit are:
